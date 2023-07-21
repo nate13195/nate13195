@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <br/><a href="https://www.linkedin.com/in/nathan-hoskins-aba943196">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Nathan! <br/>
 
 <h2>👨‍💻 Projects/Labs:</h2>
 
