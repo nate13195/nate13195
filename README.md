@@ -9,20 +9,13 @@
 
 <h2>📄 Certifications</h2>
 
-- [CompTIA Network+](https://www.credly.com/badges/4104bb4b-29a8-412f-bb06-7701b78d048c/linked_in_profile)
-- [CompTIA Security+](https://www.credly.com/badges/09d0137f-7654-4f2d-8a6d-41a819aefabe)
-- [CompTIA CySA+](https://www.credly.com/badges/6d300cd6-638b-49e8-8e3e-7bd49dd443fd)
-- [CompTIA PenTest+](https://www.credly.com/badges/12b1b285-9b47-43f9-bade-2ec05c72f3e0)
-- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/nathanhoskins-5346/credentials/7f89e104cd467b95)
-
-<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="NathanHoskins | LinkedIn" width="100px" src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" />](https://www.credly.com/badges/4104bb4b-29a8-412f-bb06-7701b78d048c/linked_in_profile)
+[<img align="left" alt="NathanHoskins | LinkedIn" width="100px" src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />](https://www.credly.com/badges/4104bb4b-29a8-412f-bb06-7701b78d048c/linked_in_profile)
+[<img align="left" alt="NathanHoskins | LinkedIn" width="100px" src="https://images.credly.com/size/340x340/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" />](https://www.credly.com/badges/4104bb4b-29a8-412f-bb06-7701b78d048c/linked_in_profile)
+[<img align="left" alt="NathanHoskins | LinkedIn" width="100px" src="https://images.credly.com/size/340x340/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" />](https://www.credly.com/badges/12b1b285-9b47-43f9-bade-2ec05c72f3e0)
+[<img align="left" alt="NathanHoskins | LinkedIn" width="100px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" />](https://learn.microsoft.com/en-us/users/nathanhoskins-5346/credentials/7f89e104cd467b95)
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/nathan-hoskins-aba943196
 
 <!--
 **nate13195/nate13195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
