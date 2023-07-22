@@ -9,7 +9,7 @@
 
 <h2>📄 Certifications</h2>
 
-[<img align="left" alt="NathanHoskins | LinkedIn" width="125px" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg?sfvrsn=c1041be7_2" />](https://www.credly.com/badges/4104bb4b-29a8-412f-bb06-7701b78d048c/linked_in_profile)
+[<img align="left" alt="NathanHoskins | LinkedIn" width="125px" src="https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" />](https://www.credly.com/badges/4104bb4b-29a8-412f-bb06-7701b78d048c/linked_in_profile)
 [<img align="left" alt="NathanHoskins | LinkedIn" width="125px" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=c1041be7_2" />](https://www.credly.com/badges/4104bb4b-29a8-412f-bb06-7701b78d048c/linked_in_profile)
 [<img align="left" alt="NathanHoskins | LinkedIn" width="125px" src="https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logocysaplus-01.svg" />](https://www.credly.com/badges/4104bb4b-29a8-412f-bb06-7701b78d048c/linked_in_profile)
 [<img align="left" alt="NathanHoskins | LinkedIn" width="125px" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logopentestplus.svg?sfvrsn=ba95d8d6_10" />](https://www.credly.com/badges/12b1b285-9b47-43f9-bade-2ec05c72f3e0)
