@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects/Labs:</h2>
 
-- <b>Azure Sentinel (SIEM)</b>
+- <b>[Azure Sentinel (SIEM) Global Attack Map Lab](https://github.com/nate13195/Azure_Sentinel_Lab)</b>
   - Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data.
   - Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic information (latitude, longitude, state/province, and country)
   - Configured Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
