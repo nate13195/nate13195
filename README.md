@@ -8,7 +8,7 @@
   - Configured Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
 - <b>[Python Password Generator](https://github.com/nate13195/Python_Password_Generator/blob/main/README.md)</b>
   - Demonstrated fundamental programming concepts by creating a random password generator using Python.
-  - Provided a walkthrough of the coding process with explanations.
+  - Provided a walk-through of the coding process with explanations.
   
 
 <h2>📄 Certifications</h2>
