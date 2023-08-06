@@ -26,7 +26,8 @@
 
 <h2>🎓 Education</h2>
 
-[<img align="left" width="200px" src="https://www.psu.edu/psu-edu-assets/images/shared/psu-mark.svg" />](https://ist.psu.edu/prospective/undergraduate/academics/sra)
+[<img align="left" width="275px" src="https://www.psu.edu/psu-edu-assets/images/shared/psu-mark.svg" />](https://ist.psu.edu/prospective/undergraduate/academics/sra)
+[<img align="left" width="100px" src="https://www.wgu.edu/content/dam/web-sites/scholarships/WGU_Texas_Seal.jpg" />](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html)
 
 
 
